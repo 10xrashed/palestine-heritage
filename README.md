@@ -224,9 +224,3 @@ $db = Database::getInstance()->getConnection();
 $stmt = $db->prepare("SELECT * FROM supporters");
 $stmt->execute();
 ```
-
-## Contact & Support
-
-For questions or issues:
-- Email: admin@palestineheritage.com
-- Check XAMPP documentation: [https://www.apachefriends.org/docs/](https://www.apachefriends.org/docs/)
